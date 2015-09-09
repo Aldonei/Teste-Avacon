@@ -1,0 +1,5 @@
+C:\Cursos\Avacon\WcfServiceCliente\WcfServiceCliente\bin\WcfServiceCliente.dll.config
+C:\Cursos\Avacon\WcfServiceCliente\WcfServiceCliente\bin\WcfServiceCliente.dll
+C:\Cursos\Avacon\WcfServiceCliente\WcfServiceCliente\bin\WcfServiceCliente.pdb
+C:\Cursos\Avacon\WcfServiceCliente\WcfServiceCliente\obj\Debug\WcfServiceCliente.dll
+C:\Cursos\Avacon\WcfServiceCliente\WcfServiceCliente\obj\Debug\WcfServiceCliente.pdb
